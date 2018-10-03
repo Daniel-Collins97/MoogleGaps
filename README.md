@@ -32,6 +32,6 @@ GraphNodeTest2;
 
 ## Authors
 
-* **Daniel Collins**
+* **Daniel Collins**, **Dylan Morrissey**
 
-This was a solo project completed as part of my studies in the WIT I.o.T Degreee
+This was a joint project completed as part of our studies in the WIT I.o.T Degreee
